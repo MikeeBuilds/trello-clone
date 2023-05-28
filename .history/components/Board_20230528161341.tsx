@@ -12,7 +12,7 @@ function Board() {
   useEffect(() => {
     getBoard();
 
-  }, [getBoard])
+  }, [get])
 
 
   return (

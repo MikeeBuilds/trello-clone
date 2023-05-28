@@ -10,9 +10,9 @@ function Board() {
 
 
   useEffect(() => {
-    getBoard();
+    // getBoard();
 
-  }, [getBoard])
+  }, [])
 
 
   return (
